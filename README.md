@@ -1,7 +1,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=juanbuitrago17&theme=neon&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=juanbuitrago17&theme=neon&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juanbuitrago17&theme=neon&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=juanbuitrago17&theme=neon&hide_border=true)
 
 # 💫 About Me:
 Sobre mí 👋<br>¡Hola! Soy Juan pablo, un apasionado desarrollador de software con interés en [áreas de interés, en el frontend y el backend. Me encanta aprender y explorar nuevas tecnologías, y utilizo GitHub para compartir mis proyectos y colaborar con otros.<br><br>Mi enfoque principal es la creación de paginas web. Me gusta trabajar en proyectos que me desafíen y que me permitan mejorar mis habilidades constantemente.<br><br>Aquí encontrarás algunos de mis proyectos y contribuciones. Siempre estoy abierto/a a nuevas ideas y colaboraciones, ¡así que no dudes en contactarme si te gustaría trabajar juntos!

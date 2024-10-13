@@ -11,8 +11,8 @@ Here, you'll find some of my projects and contributions. I’m always open to ne
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=juanbuitrago17&theme=neon&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=juanbuitrago17&theme=neon&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juanbuitrago17&theme=neon&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=juanbuitrago17&theme=neon&hide_border=true)
 
 
 
